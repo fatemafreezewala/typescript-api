@@ -63,11 +63,6 @@ project-root/
    npm start
    ```
 
-4. **Run Tests**:
-   ```bash
-   npm test
-   ```
-
 ---
 
 ## API Endpoints
